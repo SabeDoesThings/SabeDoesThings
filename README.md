@@ -7,4 +7,4 @@ I have a [youtube channel](https://www.youtube.com/@SabeDoesThingsChannel) where
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sabedoesthings&count_private=true&show_icons=true&disable_animations=true&theme=dark)
 
-[![SabeDoesThings' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sabedoesthings)](https://github.com/anuraghazra/github-readme-stats)
+[![SabeDoesThings' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SabeDoesThings)](https://github.com/anuraghazra/github-readme-stats)
